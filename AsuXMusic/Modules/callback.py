@@ -137,8 +137,6 @@ async def cbbasic(_, query: CallbackQuery):
 
 🤷 » /skip - ᴛᴏ sᴋɪᴘ ᴄᴜʀʀᴇɴᴛ sᴏɴɢ
 
-🤷 » /repo - ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴘᴏ
-
 🙋 » /end - ᴛᴏ end ᴘʟᴀʏ sᴏɴɢ ɪɴ ᴠᴄ.""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("ɢᴏ ʙᴀᴄᴋ 🏡", callback_data="cbstart")]]
