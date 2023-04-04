@@ -114,8 +114,8 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        text="Manager",
+                        url="https://itz_Erwin_Smith",
                     )
                 ],
             ]
